@@ -4,4 +4,9 @@
 
 ## How to start
 
-Word is weak. Read the [code](demo.py) now :)
+Word is weak. Read the code now :)
+
+- [python](demo.py)
+- [go](demo.go)
+
+[SERVICE.txt](SERVICE.txt) is a copy of google's adb server document.
